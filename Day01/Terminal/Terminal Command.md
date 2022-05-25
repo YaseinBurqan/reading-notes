@@ -69,3 +69,5 @@
 ### - It is a wonderful shortcut, especially as it shortens our time, and the commands also solved many things, one of which is that I created all the files manually and attached them to the program, but now it is faster in everything
 
 ## It is a wonderful shortcut, especially as it shortens our time, and the commands also solved many things, one of which is that I created all the files manually and attached them to the program, but now it is faster in everything
+
+## Thanks a lot for these information :)
