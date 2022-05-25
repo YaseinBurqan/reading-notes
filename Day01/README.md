@@ -4,4 +4,9 @@
 
 [Terminal Command](./Terminal/Terminal%20Command.md)
 
-[learn git branching](./learngitbranching/GIT%20Practice.md)
+[The Command Line](./The%20Command%20Line/Terminal%20Command.md)
+
+[Git Practice](./GIT%20Practice/git.md)
+
+[Typing Practice](./Typing%20Practice/typing.md)
+
