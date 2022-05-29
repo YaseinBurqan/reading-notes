@@ -16,15 +16,15 @@
 
     => Node has a benefits for the web server development:
 
-  a. Optimize throughput and scalability in web applications and is a good solution for many common web-development problems.
+- Optimize throughput and scalability in web applications and is a good solution for many common web-development problems.
 
-  b. less time is spent dealing with "context shift" between languages when you're writing both client-side and server-side code.
+- less time is spent dealing with "context shift" between languages when you're writing both client-side and server-side code.
 
-  c. The node package manager (NPM) provides access to  reusable packages also be used to automate most of the build toolchain.
+- The node package manager (NPM) provides access to  reusable packages also be used to automate most of the build toolchain.
 
-  d. Node.js is portable
+- Node.js is portable
 
-  e. It has active third party ecosystem and developer community, And you can use Node.js to create a simple web server using the Node HTTP package.
+- It has active third party ecosystem and developer community, And you can use Node.js to create a simple web server using the Node HTTP package.
 <br/>
 <br/>
 
@@ -50,6 +50,7 @@
 - PUT.
 - DELETE.
 - GET.
+<br/>
 
 ## Helloworld Express Example
 
@@ -141,7 +142,7 @@ refers to a style of programming .
 
 ## CI
 
-"Continuous Integration":is a workflow strategy that helps ensure everyone's changes will integrate with the current version of the project. This lets you catch bugs, reduce merge conflicts, and have confidence your software is working.
+    "Continuous Integration":is a workflow strategy that helps ensure everyone's changes will integrate with the current version of the project. This lets you catch bugs, reduce merge conflicts, and have confidence your software is working.
 
 CI :
 
@@ -153,9 +154,7 @@ CI :
 
 ## CD
 
-"Continuous Delivery":
-
-is the practice of developing software in such a way that you could release it at any time. When coupled with CI, continuous delivery lets you develop features with modular code in more manageable increments.
+    "Continuous Delivery":is the practice of developing software in such a way that you could release it at any time. When coupled with CI, continuous delivery lets you develop features with modular code in more manageable increments.
 
  CD :
 
