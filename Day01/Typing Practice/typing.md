@@ -11,3 +11,5 @@
 ## lesson 3
 
 ![lesson3](./lesson%203.png)
+
+[=> Back to the main page](./typing.md)
