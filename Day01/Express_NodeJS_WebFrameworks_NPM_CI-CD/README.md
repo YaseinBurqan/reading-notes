@@ -1,4 +1,4 @@
-# Express 👋 👩🏻‍💻
+# Express
 
 - Introduction to NodeJS.
 - Introduction to Express.
