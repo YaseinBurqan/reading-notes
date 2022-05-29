@@ -9,3 +9,12 @@
 |[Day09](./Day09/)|[Day10](./Day10/)|[Day11](./Day11/)|[Day12](./Day12/)|
 |[Day13](./Day13/)|[Day14](./Day14/)|[Day15](./Day15/)|[Day16](./Day16/)
 |[Day17](./Day17/)|[Day18](./Day18/)|[Day19](./Day19/)|[Day20](./Day20/)
+-----------------------------------------------------------------------
+
+# Things I want to know more about
+
+###### Source Control
+
+###### code quality
+
+###### Networking Basics
