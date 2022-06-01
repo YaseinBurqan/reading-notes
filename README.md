@@ -18,7 +18,7 @@ This page can keep track of my observations and questions from the Reading Assig
 | -----------      | ----------- |
 | Day 01 | [Intro To Sql Bolt, The Command Line,GIT Practice learn git branching,Typing Practice](./Day01/README.md) |
 | Day 02 | [Express REST API](./Day02/README.md) |
-| Day 02 | [Linked List](./Day03/README.MD) |
+| Day 03 | [Linked List](./Day03/README.MD) |
 
 # Things I want to know more about
 
