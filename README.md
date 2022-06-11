@@ -14,8 +14,6 @@
 
 This page can keep track of my observations and questions from the Reading Assignments throughout my course.
 
-| **Days**      | **Link**|
-| -----------      | ----------- |
 | Class 01 | [Intro To Sql Bolt, The Command Line,GIT Practice learn git branching,Typing Practice](./Day01/README.md) |
 
 | Class 02 | [Express REST API](./Day02/README.md) |
