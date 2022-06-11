@@ -16,10 +16,15 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | **Days**      | **Link**|
 | -----------      | ----------- |
-| Day 01 | [Intro To Sql Bolt, The Command Line,GIT Practice learn git branching,Typing Practice](./Day01/README.md) |
-| Day 02 | [Express REST API](./Day02/README.md) |
-| Day 03 | [Linked List](./Day03/README.MD) |
-| Day 04 | [SQL vs noSQL sequelize, sequelize normalization](./Day04/README.md) |
+| Class 01 | [Intro To Sql Bolt, The Command Line,GIT Practice learn git branching,Typing Practice](./Day01/README.md) |
+
+| Class 02 | [Express REST API](./Day02/README.md) |
+
+| Class 03 | [Linked List](./Day03/README.MD) |
+
+| Class 04 | [SQL vs noSQL sequelize, sequelize normalization](./Day04/README.md) |
+
+| Class 06 | [Authentication](./Day06/README.md) |
 
 # Things I want to know more about
 
