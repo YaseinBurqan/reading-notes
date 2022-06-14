@@ -24,6 +24,8 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | Class 06 | [Authentication](./Day06/README.md) |
 
+| Class 07 | [Bearer Authorization](./Day07/README.md) |
+
 # Things I want to know more about
 
 ###### Source Control
