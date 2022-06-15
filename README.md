@@ -26,6 +26,8 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | Class 07 | [Bearer Authorization](./Day07/README.md) |
 
+| Class 08 | [Access Control (ACL)](./Day08/README.md) |
+
 # Things I want to know more about
 
 ###### Source Control
