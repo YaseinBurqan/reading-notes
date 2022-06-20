@@ -28,6 +28,10 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | Class 08 | [Access Control (ACL)](./Day08/README.md) |
 
+| Class 09 | [Authorization/Authentication](./Day09/README.md) |
+
+| Class 10 | [Stacks and Queues](./Day10/README.md) |
+
 # Things I want to know more about
 
 ###### Source Control
