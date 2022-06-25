@@ -34,6 +34,8 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | Class 11 | [Event Driven](./Day11/README.md) |
 
+| Class 12 | [Socket.io](./Day12/README.md) |
+
 # Things I want to know more about
 
 ###### Source Control
