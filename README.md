@@ -32,6 +32,8 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | Class 16 | [AWS: Cloud Servers](./Day16/readme.md) |
 
+| Class 17 | [AWS: S3 and Lambda](./Day17/readme.md) |
+
 # Things I want to know more about
 
 ###### Source Control
