@@ -42,4 +42,5 @@ AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web ap
 ## Bookmark and Review
 
 [Virtual Machines](https://www.youtube.com/watch?v=yIVXjl4SwVo)
+
 [VMS and the Cloud](https://www.youtube.com/watch?v=l0DfHUWMjsU)
