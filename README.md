@@ -34,6 +34,8 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | Class 17 | [AWS: S3 and Lambda](./Day17/readme.md) |
 
+| Class 18 | [AWS: Events](./Day18/readme.md) |
+
 # Things I want to know more about
 
 ###### Source Control
