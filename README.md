@@ -36,6 +36,8 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | Class 18 | [AWS: Events](./Day18/readme.md) |
 
+| Class 19 | [AWS: AWS: API, Dynamo and Lambda](./Day19/readme.md) |
+
 # Things I want to know more about
 
 ###### Source Control
