@@ -40,6 +40,10 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | Class 26 | [Component Based UI,](./Class%2026/readme.md) |
 
+| Class 27 | [Component Based UI, useState](./Class%2027/readme.md) |
+
+| Class 28 | [Component Based UI,useEffect](./Class%2028/readme.md) |
+
 # Things I want to know more about
 
 ###### Source Control
