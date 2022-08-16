@@ -44,6 +44,8 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | Class 28 | [Component Based UI,useEffect](./Class%2028/readme.md) |
 
+| Class 29 | [Component Based UI,Advanced State with Reducers](./Class%2029/readme.md) |
+
 # Things I want to know more about
 
 ###### Source Control
