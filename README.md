@@ -46,6 +46,8 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | Class 29 | [Component Based UI,Advanced State with Reducers](./Class%2029/readme.md) |
 
+| Class 30 | [Hash Tables](./Class%2030/readme.md) |
+
 # Things I want to know more about
 
 ###### Source Control
