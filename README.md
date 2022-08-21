@@ -48,6 +48,8 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | Class 30 | [Hash Tables](./Class%2030/readme.md) |
 
+| Class 31 | [Context API](./Class%2031/readme.md) |
+
 # Things I want to know more about
 
 ###### Source Control
