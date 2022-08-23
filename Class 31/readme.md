@@ -120,3 +120,8 @@ To get around this, lift the value into the parent’s state:
             );
         }
     }
+
+#
+
+awesome-react-context
+<https://github.com/diegohaz/awesome-react-context>
