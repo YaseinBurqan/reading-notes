@@ -50,6 +50,8 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | Class 31 | [Context API](./Class%2031/readme.md) |
 
+| Class 32 | [Context API - Behaviors](./Class%2032/readme.md) |
+
 # Things I want to know more about
 
 ###### Source Control
