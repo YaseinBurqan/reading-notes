@@ -1,1 +1,1 @@
-# <Login /> and <Auth />
+# Login and Auth
