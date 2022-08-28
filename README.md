@@ -52,6 +52,10 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | Class 32 | [Context API - Behaviors](./Class%2032/readme.md) |
 
+| Class 33 | [<Login /> and <Auth />](./Class%2033/readme.md) |
+
+| Class 34 | [API Integration](./Class%2034/readme.md) |
+
 # Things I want to know more about
 
 ###### Source Control
