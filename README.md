@@ -60,6 +60,8 @@ This page can keep track of my observations and questions from the Reading Assig
 
 | Class 38 | [Redux - Asynchronous Actions](./Class%2038/readme.md) |
 
+| Class 39 | [Redux - Additional Topics](./Class%2039/readme.md) |
+
 # Things I want to know more about
 
 ###### Source Control
